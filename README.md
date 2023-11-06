@@ -27,16 +27,18 @@ Choose from any popular app. It can be an app for anything:
 - Business reviews
 
 ## Questions
+?
 
 ## Project Managing Tool
+TRELLO
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app is a music streaming app. Our main competitor(s) are Spotify and Apple Music. The unique nature of my app, is that it includes several remixes to popular songs -- flipped into varying genres, done by different DJs/producers from various cities and many other parts of the world. 
 
 #### What is the name of your application?
 
-> APP NAME
+> 'Groovify'
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
