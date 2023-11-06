@@ -39,7 +39,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [KMusic board](https://trello.com/b/rOGr6cd9/kmusic-music-app)
+> [KMusic board](https://trello.com/b/rOGr6cd9/pmusic-music-app)
 
 #### For one card, fill out more details, include:
 
