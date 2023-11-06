@@ -10,7 +10,7 @@
 
 #### What is the name of your application?
 
-> KMusic
+> PMusic
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
