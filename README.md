@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app ... will allow users to have a personal profile where they can meet other people that are looking to play sports such as soccer. Games will be hosted by one user. A time, location and player slots will be displayed for the user to know where to go and have a match of soccer!
 
 #### What is the name of your application?
 
-> APP NAME
+> GamePlan
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,16 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a user, I want to have a profile, so that I can keep track of all the games I've played.
+> As a user, I want to be able to message other people, so that I am able to form new friendships/teammates.
+> As a user, I want to have a visual display of who are the people that will be joining that game, so that I am able to prepare for my games.
+> As a user, I want to have the option to surrender my slot, so that games won't be affected in case I can't make it.
+> As a user, I want to have a seamless app experience, so that way I can join games faster.
+> As a user, I want to be able to host a game, so that way I can build my own community.
+> As a user, I want to be able to ban people from my games in case they act violent/agressive, so that way no one gets hurt.
+> As a user, I want to see a set of guidelines everyone must follow, so that everyone knows the code of conduct when they join a game.
+> As a user, I want to see some tournaments be held, so that everyone gets a chance to showcase their talent.
+> As a user, I want to see the location, date and player slots of a game, so that I can plan my day better that way I can attend.
 
 #### Create a new board
 
@@ -55,7 +64,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [APP NAME board](https://trello.com/invite/b/6AuIK689/ATTIb02886b59f02f5d9ba32c728edcebaa66E19F3B8/kanban-template)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +77,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/L7tJFmTO)
 
 #### Create one bug card.
 
@@ -86,7 +95,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/9loL64O2)
 
 #### Create one chore card
 
@@ -97,7 +106,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/OUQNFJT7)
 
 ### Wireframes
 
@@ -107,27 +116,27 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[My Mobile Landing Page Wireframe Link](./assets/mobile-wireframe.jpeg)
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+[My Desktop Main Page Wireframe Link](./assets/desktop-wireframe.jpeg)
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[My Form Wireframe Link](./assets/form-wireframe.jpeg)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+- I learned how to take my time designing a desktop and mobile landing page
+- I became inspired on sticking to a plan when creating a website/application
+- I got to familiarize myself with Trello more since it is widely used in the industry. It feels good to have this tool in my toolbox now. 
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve ... would have to be learning a software that specializes in making wireframes. I have made wireframes before on a sheet and paper. But it'll be great to have a software I can depend on and bring my website to life before all the functionality and code kicks in. 
 
 Please list out your Team Members if you worked on a team:
 
