@@ -33,10 +33,12 @@ Choose from any popular app. It can be an app for anything:
 #### In 1-3 sentences describe your application.
 
 > My app ...
+I'm planning to develop a small pet adoption web application that begins with a homepage. This homepage will provide a gateway to a second page where users can easily search for pets based on various categories, including age ranges, types, and other search catagories, making the pet adoption process more easy to use and user-friendly. This project aims to simplify the adoption process and help pets find their forever homes.
 
 #### What is the name of your application?
 
 > APP NAME
+PetLink HomeFinder:    
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -45,6 +47,28 @@ Choose from any popular app. It can be an app for anything:
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
 > As a ...
+
+1. As a pet lover, I want to visit the home page of PetLink HomeFinder so that I can find the link available pets for adoption search.
+
+2. As a potential pet owner, I want to access the search page on PetLink HomeFinder to filter pets by their age ranges.
+
+3. As a user looking for a specific type of pet, I want to use the search feature on PetLink HomeFinder to filter pets by their types.(dogs, cats, rabbits)
+
+4. As a user, I should have a straightforward way to return to the home page from the pet adoption page.
+
+5. As a user interested in adopting a pet with specific characteristics, I want to filter pets on PetLink HomeFinder by their breed, size, and color.
+
+6. As a potential pet owner, I want to filter pets on PetLink HomeFinder by the state to find pets available in my area.
+
+7. As a pet adopter, I want to view pet profiles with detailed information, including photos and descriptions, to learn more about each pet.
+
+8. As a potential pet owner, I want to use PetLink HomeFinder to share pet profiles and information with my friends and family, encouraging them to adopt as well.
+
+9. As Potential pet owner, I want to use petLink Homefinder to send a email with a templated application to addopt the pet.
+(useing nodemailer + The Adopt-a-Pet.com API or another one which is free)
+
+10. As a Potential pet owner, I want to use PetLink HomeFinder to share pet profiles with friends and family by email to adopt as well. 
+
 
 #### Create a new board
 
@@ -55,7 +79,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Pet Link board](https://trello.com/b/bdFY4Qbi)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +92,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/jyoS6530)
 
 #### Create one bug card.
 
@@ -86,7 +110,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/NI6W0rYG)
 
 #### Create one chore card
 
@@ -97,7 +121,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/cbblhETd)
 
 ### Wireframes
 
@@ -107,31 +131,32 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[My Mobile Landing Page Wireframe Link](./assets/Mobile_HomePage.png)
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+[My Desktop Main Page Wireframe Link](./assets/HomePage.png)
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[My Form Wireframe Link](/assets/Form:%20adoption%20page.png)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
+- one - Planning out what hte portfolio project may be (it's hard finding animal's api to adopt)
+- two - creating 10 clear functions/ user stories that i may include in my project
 - three
 
 Write down one thing you'd improve on for next time.
 
 > One thing I'd improve ...
+Is planning for future projects before coding. it is important to remember to plan what functions should be in a code to do it properaly and not add new functions as you go. Until the bare necesities are done.
 
 Please list out your Team Members if you worked on a team:
 
-1.
+1. Michael Restrepoross
 
 ## Bonus:
 
