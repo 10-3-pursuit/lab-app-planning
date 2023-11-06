@@ -55,7 +55,11 @@ TRELLO
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+-As a user, the app should have a quality of sound & diffrentiate itself from others.
+-As a user, the app has an ability to help the user contact us via email or live chat.
+-As a user, the patterns of songs played or liked can automatically recommend similar.
+-As a user subscriber, there's an ease of dated, reoccuring, monthly auto-billing.
+-As a user, searching for songs and remixes must be the ultimate in optimized results.
 
 #### Create a new board
 
