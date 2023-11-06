@@ -18,17 +18,17 @@
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a listener, I want to search for a song so that I can view it.
-> As a listener, I want to view a song so that I can play it.
-> As a listener, I want to play a song so that I can see the lyrics.
-> As a listener, I want to lower the volume of a song so that I can play it at a desired level.
-> As a listener, I want to pause a song so that I can stop the music.
-> As a listener, I want to change the song being played so that I can listen to a different song.
-> As a listener, I want to like/love a song so that I can play it later.
-> As a listener, I want to create a playlist so that I can listen to specific songs.
-> As a listener, I want to skip a song so that I can play the next one.
-> As a listener, I want to edit a playlist so that I can add or remove songs from it.
-> As a listener, I want to search for playlists so that I can view and listen to the playlists.
+- As a listener, I want to search for a song so that I can view it.
+- As a listener, I want to view a song so that I can play it.
+- As a listener, I want to play a song so that I can see the lyrics.
+- As a listener, I want to lower the volume of a song so that I can play it at a desired level.
+- As a listener, I want to pause a song so that I can stop the music.
+- As a listener, I want to change the song being played so that I can listen to a different song.
+- As a listener, I want to like/love a song so that I can play it later.
+- As a listener, I want to create a playlist so that I can listen to specific songs.
+- As a listener, I want to skip a song so that I can play the next one.
+- As a listener, I want to edit a playlist so that I can add or remove songs from it.
+- As a listener, I want to search for playlists so that I can view and listen to the playlists.
 
 #### Create a new board
 
