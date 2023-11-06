@@ -33,10 +33,12 @@ Choose from any popular app. It can be an app for anything:
 #### In 1-3 sentences describe your application.
 
 > My app ...
+> Spotify is a music streaming service that allows users to access a vast catalog of songs, playlists, and podcasts. Users can create personalized playlists, explore a wide range of music genres, and utilize AI algorithms to customize their listening experience.
 
 #### What is the name of your application?
 
 > APP NAME
+> Spotify
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -45,6 +47,27 @@ Choose from any popular app. It can be an app for anything:
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
 > As a ...
+>As a user, i want to create playlists, so that i can personalize my listening experience
+
+>As a user, i want to navigate to the recently played button, so that i can view the last songs played
+
+>As a user, i want to use AI, so that i can personalize my listening experience 
+
+>As a user, i want to pay for a monthly subscription, so that i can listen to music without any ads inbetween songs
+
+>As a user, i want to click the lyrics button, so that i can be shown the lyrics to the song im listening to
+
+>As a user, i want to recieve a yearly music report, so that i can see my what i have listened to the most, what artist ive listened to the most, etc
+
+>As a user, i want to pay for a family plan, so that everyon in my home can use spotify ad free
+
+>As a user, i want to put songs in a queue, so that it can hold songs to be played next
+
+>As a user, i want to press the like button, so that i can put that song into my 'Liked Songs' playlist
+
+>As a user, i want to put my own music on spotify, so that i can show my artistry
+
+>As a user, i want to add friends, so that i can view their music activity
 
 #### Create a new board
 
@@ -55,8 +78,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
-
+> [Spotify board](https://trello.com/b/3rA9hAfU/app-planning-lab)
 #### For one card, fill out more details, include:
 
 - The business case
@@ -68,7 +90,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/cITxPrtc)
 
 #### Create one bug card.
 
@@ -86,7 +108,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/iRvZ8c9R)
 
 #### Create one chore card
 
@@ -97,7 +119,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/XKWCc5nX)
 
 ### Wireframes
 
@@ -107,27 +129,27 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[My Mobile Landing Page Wireframe Link](https://wireframe.cc/mlFIsp)
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+[My Desktop Main Page Wireframe Link](https://wireframe.cc/EWXkyl)
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[My Form Wireframe Link](https://wireframe.cc/5qscAW)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+- I did well with remembering what to add in the cards.
+- I did well with the organization. 
+- I did well on the user stories.
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve on is my wireframes. I was kind of confused on what to do for them so it led to me not being confident on my execution.
 
 ## Bonus:
 
