@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app is a paid subscription video streaming service similar to Netflix.
 
 #### What is the name of your application?
 
-> APP NAME
+> WebFlix
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,27 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a user I want the the ability to change my profile pic to make each account easier to distinguish and feel more custom. There can be a list of options of preset profile pics.
+
+> As a user, I want to be able to choose a movie and watch it.
+
+> As a user, I want to be able to select a movie genre and have an organized list of movies in alphabetical order that have that genre.
+
+> As a user, I want to be able to hover over a movie and see a display of the movie length, movie description, movie genres, leading actors and the year it was released.
+
+> As a user, I want to be able to pause, play, fast forward, and rewind any video.
+
+> As a user, I want to be able to add videos to a favorites list.
+
+> As a user, I want to be able to choose from different subscriptions.
+
+> As a user, I want to be able to log in to my account and remember all of my settings.
+
+> As a user, I want to be able to pay for my service with a credit card or bank account.
+
+> As a user, I want the option to create multiple profiles in my account.
+
+> As a user, I want to have the option to make a child profile.
 
 #### Create a new board
 
@@ -55,7 +75,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Trello board](https://trello.com/invite/b/T7C2xtmh/ATTIff13639448d26ce486824c23ae4959961713AFA3/video-streaming-app)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +88,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/PF3NRqEE)
 
 #### Create one bug card.
 
@@ -86,7 +106,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/4Zr5Zvo8)
 
 #### Create one chore card
 
@@ -97,7 +117,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/89nVqt0Q)
 
 ### Wireframes
 
@@ -107,31 +127,31 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[My Mobile Landing Page Wireframe Link](https://wireframe.cc/gBSjdS)
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+[My Desktop Main Page Wireframe Link](https://wireframe.cc/cgQXey)
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[My Form Wireframe Link](https://wireframe.cc/TKTlvO)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+- My partner was easy to work with, we shared the load.
+- WireFrame tool was easy to use. 
+- We gained a much better understanding of how to use Trello to organize our projects.
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is I'd like to practice making more mockups and pay more attention to the details.
 
 Please list out your Team Members if you worked on a team:
 
-1.
+1. Alexander Gonzalez
 
 ## Bonus:
 
