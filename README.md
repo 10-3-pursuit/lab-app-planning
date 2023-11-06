@@ -27,7 +27,6 @@ Choose from any popular app. It can be an app for anything:
 - Business reviews
 
 ## Questions
-?
 
 ## Project Managing Tool
 TRELLO
@@ -43,6 +42,16 @@ TRELLO
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
 - `As a <type of user>, I want to <some goal>, so that <some reason>.`
+-As a first-time user, I want to ensure smooth functionailty to minimize frustration.
+-As a repeat-user, I want to make sure new discovery leads to continued revisits.
+-As a referred-user, I want to make sure the hype of expectations is met above/beyond.
+-As a regular user, I want to minimize the time it takes for successful song searches.
+-As a music aficianado, I want to thrill the listener with never heard before remixes.
+-As a dedicated user, I want to encourage the creation of profiles to build community.
+-As a regular user, I want to offer new perks according to their favorable algorithms.
+-As a regular user, I want to retain subscribers seamlessly, building app popularity.
+-As a dedicated user, I want to be able to build playlists, connect to other users.
+-As a paid subscriber, a curated playlist of songs/remixes are sent to them weekly.
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
