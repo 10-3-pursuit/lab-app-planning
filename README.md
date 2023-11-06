@@ -33,10 +33,12 @@ Choose from any popular app. It can be an app for anything:
 #### In 1-3 sentences describe your application.
 
 > My app ...
+I'm planning to develop a small pet adoption web application that begins with a homepage. This homepage will provide a gateway to a second page where users can easily search for pets based on various categories, including age ranges, types, and other search catagories, making the pet adoption process more easy to use and user-friendly. This project aims to simplify the adoption process and help pets find their forever homes.
 
 #### What is the name of your application?
 
 > APP NAME
+PetLink HomeFinder:    
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -45,6 +47,28 @@ Choose from any popular app. It can be an app for anything:
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
 > As a ...
+
+1. As a pet lover, I want to visit the home page of PetLink HomeFinder so that I can explore available pets for adoption.
+
+2. As a potential pet owner, I want to access the search page on PetLink HomeFinder to filter pets by their age ranges.
+
+3. As a user looking for a specific type of pet, I want to use the search feature on PetLink HomeFinder to filter pets by their types.(dogs, cats, rabbits)
+
+4. As a user, I should have a straightforward way to return to the home page from the pet adoption page.
+
+5. As a user interested in adopting a pet with specific characteristics, I want to filter pets on PetLink HomeFinder by their breed, size, and color.
+
+6. As a potential pet owner, I want to filter pets on PetLink HomeFinder by the state to find pets available in my area.
+
+7. As a pet adopter, I want to view pet profiles with detailed information, including photos and descriptions, to learn more about each pet.
+
+8. As a potential pet owner, I want to use PetLink HomeFinder to share pet profiles and information with my friends and family, encouraging them to adopt as well.
+
+9. As Potential pet owner, I want to use petLink Homefinder to send a email with a templated application to addopt the pet.
+(useing nodemailer + The Adopt-a-Pet.com API)
+
+10. As a Potential pet owner, I want to use PetLink HomeFinder to share pet profiles with friends and family by email to adopt as well. 
+
 
 #### Create a new board
 
