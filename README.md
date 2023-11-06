@@ -48,7 +48,7 @@ Write the user stories below. Add more `>` for each user story or use `-` to mak
 
 > As a ...
 
-1. As a pet lover, I want to visit the home page of PetLink HomeFinder so that I can explore available pets for adoption.
+1. As a pet lover, I want to visit the home page of PetLink HomeFinder so that I can find the link available pets for adoption search.
 
 2. As a potential pet owner, I want to access the search page on PetLink HomeFinder to filter pets by their age ranges.
 
@@ -65,7 +65,7 @@ Write the user stories below. Add more `>` for each user story or use `-` to mak
 8. As a potential pet owner, I want to use PetLink HomeFinder to share pet profiles and information with my friends and family, encouraging them to adopt as well.
 
 9. As Potential pet owner, I want to use petLink Homefinder to send a email with a templated application to addopt the pet.
-(useing nodemailer + The Adopt-a-Pet.com API)
+(useing nodemailer + The Adopt-a-Pet.com API or another one which is free)
 
 10. As a Potential pet owner, I want to use PetLink HomeFinder to share pet profiles with friends and family by email to adopt as well. 
 
@@ -79,7 +79,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Pet Link board](https://trello.com/b/bdFY4Qbi)
 
 #### For one card, fill out more details, include:
 
@@ -92,7 +92,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/jyoS6530)
 
 #### Create one bug card.
 
@@ -110,7 +110,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/NI6W0rYG)
 
 #### Create one chore card
 
@@ -121,7 +121,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/cbblhETd)
 
 ### Wireframes
 
@@ -131,31 +131,32 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[My Mobile Landing Page Wireframe Link](./assets/Mobile_HomePage.png)
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+[My Desktop Main Page Wireframe Link](./assets/HomePage.png)
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[My Form Wireframe Link](/assets/Form:%20adoption%20page.png)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
+- one - Planning out what hte portfolio project may be (it's hard finding animal's api to adopt)
+- two - creating 10 clear functions/ user stories that i may include in my project
 - three
 
 Write down one thing you'd improve on for next time.
 
 > One thing I'd improve ...
+Is planning for future projects before coding. it is important to remember to plan what functions should be in a code to do it properaly and not add new functions as you go. Until the bare necesities are done.
 
 Please list out your Team Members if you worked on a team:
 
-1.
+1. Michael Restrepoross
 
 ## Bonus:
 
