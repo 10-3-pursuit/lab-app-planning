@@ -143,7 +143,7 @@ Write down three things that went well for you doing this lab.
 
 - one: approaching this like it was a real app, like it was my baby w/details.
 - two: language is quite important in code, and I realize in a lot of the assignments, it's not the best. As a writer/copywriter/journalist, I plan to improve that any change I get, including all assignments that require clear and concise writing. I think I do that well in this lab.
-- three: finding the links to insert, the ideation of really going through this like it was a real app situation.
+- three: finding the links to insert, the ideation of really going through this like it was a real app situation, .
 
 Write down one thing you'd improve on for next time.
 
