@@ -91,27 +91,27 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+![My Mobile Landing Page Wireframe Link](assets/mobile-wireframe.jpeg)
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+![My Desktop Main Page Wireframe Link](assets/desktop-wireframe.jpeg)
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+![My Form Wireframe Link](assets/form-wireframe.jpeg)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+- Drawing out the mobile and desktop wireframes
+- Recalling a chore from the last project
+- Creating some of the Trello cards and adding detail to one of the backlog cards
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is taking time to revise my form wireframes and possible the other two wireframes
 
 Please list out your Team Members if you worked on a team:
 
