@@ -81,7 +81,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/Me26XKCc/9-chore-changing-an-item-from-in-stock-to-out-of-stock-and-vice-versa)
 
 ### Wireframes
 
