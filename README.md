@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app is ideal for food enthusiasts who crave delicious, nutritious meals without lengthy cooking sessions. It offers a range of easy and intermediate recipes, ensuring that even novice cooks can prepare tasty dishes effortlessly.
 
 #### What is the name of your application?
 
-> APP NAME
+> Taste Quest
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -45,6 +45,22 @@ Choose from any popular app. It can be an app for anything:
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
 > As a ...
+
+- As a user, I want to browse through recipes according to my diet.
+- As a user, I want to have a favorite list for my go-to recipes.
+- As a user, I want to sort recipes by difficulty.
+- As a user, I want to make sure there are recipes with allergens in mind.
+- As a user, I want to have an account where I can store all my data.
+- As a user, I want to upload a photo on my account for a profile photo.
+- As a user, I want to be able to rate and comment on recipes.
+- As a user, I want every instruction to have a video or image associated with it for guidance.
+- As a user, I want to be able to share recipes with friends and family.
+- As a user, I want to be able to upload my own recipes into a personal cookbook.
+- As a user, I want recipes that are suitable for all ages.
+- As a user, I want to have different recipes for breakfast, snacks, lunch, and dinner.
+- As a user, I want allergen warnings.
+- As a user, I want allergen substitutions if possible.
+- As a user, I want a video available for me to watch.
 
 #### Create a new board
 
@@ -55,7 +71,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Taste Quest board](https://trello.com/b/cXlJFmdH/taste-quest)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +84,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/EIt3un3D/11-as-a-user-i-want-to-browse-through-recipes-according-to-my-diet)
 
 #### Create one bug card.
 
@@ -86,7 +102,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/JsoYxwvx/15-recent-bug-solved)
 
 #### Create one chore card
 
@@ -97,7 +113,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/EKMAKcVO/14-completed-task)
 
 ### Wireframes
 
@@ -107,31 +123,33 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[My Mobile Landing Page Wireframe Link](assets/wireframe-homepage.png)
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+[My Desktop Main Page Wireframe Link](assets/webpage.png)
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[My Form Wireframe Link](assets/my-form-page.png)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+- one: I eventually got the hang of organization on Trello.
+- two: It made me realize how much easier getting projects done could be when there is a schedule or "To-Do" being followed.
+- three: Visual tools help me perform better with less anxiety.
 
 Write down one thing you'd improve on for next time.
 
 > One thing I'd improve ...
 
+    Next time, I would practice on time-management and alotting sufficient time between tasks.
+
 Please list out your Team Members if you worked on a team:
 
-1.
+1.  N/A
 
 ## Bonus:
 
