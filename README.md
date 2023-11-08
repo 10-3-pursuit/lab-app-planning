@@ -33,7 +33,7 @@ Choose from any popular app. It can be an app for anything:
 #### In 1-3 sentences describe your application.
 
 > My app ...
-1. My app will be a competitor to Amazon music.
+1. My app will be a music and podcast subscriber application.
 2. It should provide a one stop shop for music lovers and podcasters.
 3. It should be easily accessible on both desktops and mobile devices.
 
