@@ -33,10 +33,14 @@ Choose from any popular app. It can be an app for anything:
 #### In 1-3 sentences describe your application.
 
 > My app ...
+1. My app will be a music and podcast subscriber application.
+2. It should provide a one stop shop for music lovers and podcasters.
+3. It should be easily accessible on both desktops and mobile devices.
 
 #### What is the name of your application?
 
 > APP NAME
+GoodVybes
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +48,16 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a user, I want to create an account, so that I can have easy access to my music or podcast.
+>As a user, I want to have the app keep me logged in, so that I dont have to log in each time to access the app.
+>As a user, I want to be able to create song lists, so that I can have different songs for different moods or purposes.
+>As a user, I want to be able to get basic information about the song/artist, so that I can name the songs/artists.
+>As a user, I want to be able to loop a particular song, so that I can play it over and over.
+>As a user, I want to be able to click and share, so that I can share tunes with friends.
+>As a user, I want to be able share membership for an additional charge, so that I can share the account with family.
+>As a user, I want to search for a particular song/artist, so that I can easily find any song/artist.
+>As a user, I want to get useful song recommendations, so that I can explore other songs/artists that match my repertoire.
+>As a user, I want to skip a song with ease, so that I do not have to stop and exit the song/artist.
 
 #### Create a new board
 
@@ -55,7 +68,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [APP NAME board](https://trello.com/b/hwiSICTP/goodvybes-project)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +81,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/5BIBFQpF)
 
 #### Create one bug card.
 
@@ -86,7 +99,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/oIIgIFu7)
 
 #### Create one chore card
 
@@ -97,7 +110,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/AYnVZU63)
 
 ### Wireframes
 
