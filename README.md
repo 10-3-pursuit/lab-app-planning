@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+My app is a music discovery and sharing platform called "Listen2Tunes" that allows users to discover, listen to, and share their favorite music with friends and the music community.
 
 #### What is the name of your application?
 
-> APP NAME
+LSTN2TUNES
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,16 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+As a music enthusiast, I want to create a profile, so that I can share my musical tastes and preferences with others.
+As a user, I want to browse music genres, so that I can discover new music that aligns with my interests.
+As a music lover, I want to create and manage playlists, so that I can curate my favorite tracks in one place.
+As a user, I want to listen to full tracks, so that I can enjoy the music offered on the platform.
+As a music enthusiast, I want to follow my favorite artists, so that I can stay updated on their latest releases and updates.
+As a user, I want to like and comment on songs, so that I can engage with the music community.
+As a music creator, I want to upload my original tracks, so that I can share my music with a wider audience.
+As a user, I want to collaborate with other artists, so that I can create and share music together.
+As a user, I want to receive personalized music recommendations, so that I can discover new music I might enjoy.
+As a music enthusiast, I want to share music on social media, so that I can introduce my friends to great tunes.
 
 #### Create a new board
 
@@ -55,7 +64,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [https://trello.com/invite/b/sOLRlZ4U/ATTI54379b1c39341fd7015098446290fcd90365EC98/lstn2tunes]()
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +77,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [https://trello.com/c/DjlPUhab]()
 
 #### Create one bug card.
 
@@ -86,7 +95,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [https://trello.com/c/d9wOeKo8]()
 
 #### Create one chore card
 
@@ -97,7 +106,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [https://trello.com/c/ftfFgWj8]()
 
 ### Wireframes
 
@@ -107,27 +116,27 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[<img src ="./assets/mobileVersion.jpg" width='300' height='318'>]()
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+[<img src ="./assets/desktopVersion.jpg" width='300' height='318'>]()
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[<img src ="./assets/formWireframe.jpg" width='300' height='318'>]()
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+- I was able to create clear and detailed user stories for the music app.
+- Setting up the Trello board with user stories, bug cards, and chores was straightforward.
+- Designing wireframes for the app's different views helped me visualize the layout.
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+I need to work on estimating the time required for different tasks better, as I encountered some delays during the card creation process.
 
 Please list out your Team Members if you worked on a team:
 
