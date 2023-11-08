@@ -50,7 +50,7 @@ Write the user stories below. Add more `>` for each user story or use `-` to mak
 
 > As a user, I want to create an account, so that I can have easy access to my music or podcast.
 >As a user, I want to have the app keep me logged in, so that I dont have to log in each time to access the app.
->As a user, I want to be able to crete song lists, so that I can have different songs for different moods or purposes.
+>As a user, I want to be able to create song lists, so that I can have different songs for different moods or purposes.
 >As a user, I want to be able to get basic information about the song/artist, so that I can name the songs/artists.
 >As a user, I want to be able to loop a particular song, so that I can play it over and over.
 >As a user, I want to be able to click and share, so that I can share tunes with friends.
@@ -110,7 +110,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/AYnVZU63)
 
 ### Wireframes
 
