@@ -30,21 +30,24 @@ Choose from any popular app. It can be an app for anything:
 
 ## Project Managing Tool
 
-#### In 1-3 sentences describe your application.
+#### In 1-3 sentence;lp-s describe your application.
 
-> My app ...
+> My app is an e recipes website where you can search for recipes from different cooks from  around the world.
 
 #### What is the name of your application?
 
-> APP NAME
+> Recipe Me!!
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
-- `As a <type of user>, I want to <some goal>, so that <some reason>.`
+- `As a <user>, I want to <pick a type of item>, so that <the app can render different types of recieps with that item>.`
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+
+
+> As a ... `  As a <user>, I want to <pick a type of item>, so that <the app can render different types of recieps with that item>. The <user will be able to fill out a RecipeTemplate>. <The recipeTemplate will have four different catagories for the user to choose from -Breakfast -Brunch -Lunch -Dinner.> when  <RecipeTemplate is submitted the user will be a to click om two diffrent choices -everyDayRecipes -HolidayRecipes> <A user will be able to click on the heart icon on the top left of a displayed recipe>. <A user will be able search for appiteizers recipes also>. A <user will be able to leave a comment about the recipe if they choose to>. A <user would also be able to submit a recipe of their own>. A <user will be able to watch a video on how to follow the recipe instructions>.A ,user will be able to buy products from cooks who posts recipes>.  `
+           
 
 #### Create a new board
 
@@ -55,7 +58,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Recipe Me!!!](https://trello.com/b/Bepwtd7m/recipeme-app)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +71,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/mhvhDeee/6-a-user-will-be-able-to-click-on-the-heart-icon-on-the-top-left-of-a-displayed-recipe)
 
 #### Create one bug card.
 
@@ -86,7 +89,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/JnXxMgMs/15-unable-to-access-the-values-of-a-inputted-recipe-template)
 
 #### Create one chore card
 
