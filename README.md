@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app lets people find and share recipes from all over the world.
 
 #### What is the name of your application?
 
-> APP NAME
+> Recipedia
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,17 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+>- As a user, I want to create an account, so that I have access to others' recipes and a place to keep my recipes.
+>- As a user, I want to share recipes from my culture, so that others can enjoy our food.
+>- As a user, I'd like to save recipes to my recipe book.
+>- As a user, I want to be able to post pictures of foods I made.
+>- As a user, I want to accurately translate foreign recipes to a language I understand.
+>- As a user, I'd like the ability to delete recipes from my recipe book.
+>- As a user, I want to be able to edit my copy of a saved recipe.
+>- As a user, I'd like the ability to provide feedback for others' recipes (ratings, comments, etc...).
+>- As a user, I want to be able to maintain a list of favorite recipes from other users.
+>- As a user, I'd like to filter recipes by country, ingredients, etc...
+
 
 #### Create a new board
 
@@ -55,7 +65,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Recipedia board](https://trello.com/b/EPHIuqjb/recipedia)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +78,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/fhma0QhK)
 
 #### Create one bug card.
 
@@ -86,7 +96,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/IKWZSidk)
 
 #### Create one chore card
 
@@ -97,7 +107,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/XbW7EvUV)
 
 ### Wireframes
 
@@ -107,31 +117,31 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[My Mobile Landing Page Wireframe Link](./assets/landing-page-mobile.jpeg)
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+[My Desktop Main Page Wireframe Link](./assets/landing-page-desktop.jpeg)
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[My Form Wireframe Link](./assets/form.jpeg)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+>- Adding new lists
+>- Adding cards to the lists
+>- Moving cards to different lists
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve would be my descriptions on the cards.
 
 Please list out your Team Members if you worked on a team:
 
-1.
+1. Just me
 
 ## Bonus:
 
