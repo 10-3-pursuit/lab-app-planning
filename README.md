@@ -33,14 +33,25 @@ Choose from any popular app. It can be an app for anything:
 #### In 1-3 sentences describe your application.
 
 > My app ...
-
+The music app will allow users to suggest artists and songs to other users. 
 #### What is the name of your application?
-
+Music Matters 
 > APP NAME
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
 - `As a <type of user>, I want to <some goal>, so that <some reason>.`
+>As a user I wnat to upload artists and songs, so that other users can see. 
+>As a user I want to see a list of artists and songs so that other users recommend.
+>As a user I wnat to recive notifications of any updates and recommendations, so that i'm up to date. 
+>As a user I want to be able to make connections so that I feel  comfortable on the app. 
+>As an artist I want to see how my music is being broadcasted. 
+>As an artist I want to see the differences with Music matters than other social media apps.
+>As an artists I wnat to build commections with the listeners so that they can see how important I am about my craft.
+>As an artist I want to see how the app showcases me.
+>As a user I want to see other user reviews on songs.
+>As a user I want to see the connections between teh artists and listeners on the app.
+
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
@@ -55,7 +66,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Music Matters](https://trello.com/b/Hnq1zuNU/music-matters)
 
 #### For one card, fill out more details, include:
 
