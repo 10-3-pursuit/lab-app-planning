@@ -1,42 +1,16 @@
 # App Planning Lab
 
-## Getting Started
-
-1. Fork and clone this repository.
-
-1. Answer the questions below by editing this readme. Leave the questions and prompts, and answer in between them. Make sure when you read back your work that you've written things clearly, so that anyone reading it can easily understand what you've written.
-
-1. Where applicable add screenshots, photos, and links.
-
-1. You will also deploy an `index.html` page to GitHub pages.
-
-## Instructions
-
-You will be planning a new application to develop that will be a competitor for another popular application. Your goal is to determine the minimal functionality required so you can launch your app as soon as possible.
-
-Choose from any popular app. It can be an app for anything:
-
-- Music
-- TV/Videos
-- Shopping
-- Social media
-- Blog
-- Forum (like Stack Overflow or Reddit)
-- Chat app
-- Recipes
-- Business reviews
-
 ## Questions
 
 ## Project Managing Tool
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app is a Apple Music competitor. I will create details for songs and add a functionality to click and view a specific song.
 
 #### What is the name of your application?
 
-> APP NAME
+> PMusic
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +18,17 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+- As a listener, I want to search for a song so that I can view it.
+- As a listener, I want to view a song so that I can play it.
+- As a listener, I want to play a song so that I can see the lyrics.
+- As a listener, I want to lower the volume of a song so that I can play it at a desired level.
+- As a listener, I want to pause a song so that I can stop the music.
+- As a listener, I want to change the song being played so that I can listen to a different song.
+- As a listener, I want to like/love a song so that I can play it later.
+- As a listener, I want to create a playlist so that I can listen to specific songs.
+- As a listener, I want to skip a song so that I can play the next one.
+- As a listener, I want to edit a playlist so that I can add or remove songs from it.
+- As a listener, I want to search for playlists so that I can view and listen to the playlists.
 
 #### Create a new board
 
@@ -55,11 +39,11 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [PMusic board](https://trello.com/b/rOGr6cd9/pmusic-music-app)
 
 #### For one card, fill out more details, include:
 
-- The business case
+- The business cases
 - Acceptance criteria
 - Notes
 - Resources
@@ -68,7 +52,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [As a listener, I want to click on a song so that I can play it](https://trello.com/c/gm0fzI4g/2-as-a-listener-i-want-to-click-on-a-song-so-that-i-can-play-it)
 
 #### Create one bug card.
 
@@ -86,7 +70,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/NhTPc0qp/8-bug-when-trying-to-delete-the-first-article-hardcoded-with-html)
 
 #### Create one chore card
 
@@ -97,7 +81,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/Me26XKCc/9-chore-changing-an-item-from-in-stock-to-out-of-stock-and-vice-versa)
 
 ### Wireframes
 
@@ -107,31 +91,31 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+![My Mobile Landing Page Wireframe Link](assets/mobile-wireframe.jpeg)
 
 **Create a landing page wireframe for a wide desktop view.**
 
-[My Desktop Main Page Wireframe Link]()
+![My Desktop Main Page Wireframe Link](assets/desktop-wireframe.jpeg)
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+![My Form Wireframe Link](assets/form-wireframe.jpeg)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
 
-- one
-- two
-- three
+- Drawing out the mobile and desktop wireframes
+- Recalling a chore from the last project
+- Creating some of the Trello cards and adding detail to one of the backlog cards
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is taking time to revise my form wireframes and possible the other two wireframes
 
 Please list out your Team Members if you worked on a team:
 
-1.
+1. None
 
 ## Bonus:
 
