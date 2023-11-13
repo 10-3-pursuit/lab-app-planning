@@ -17,7 +17,7 @@ DinoTickets is a mobile application that allows users to browse and purchase tic
 9. As a user, I want to easily share information about the museum and my upcoming visit on social media.
 10. As a user, I want to contact customer support for any issues related to ticket purchases or app functionality.
 
-## **Board**:
+## **Trello Board**:
 
 <blockquote class="trello-card"><a href="https://trello.com/invite/b/QBVJmvOB/ATTIdb9de19fdca442db35499334be2cbf45FFAA219E/dinosaur-ticket-board">DinoTickets Trello Board</a></blockquote>
 
@@ -28,7 +28,7 @@ DinoTickets is a mobile application that allows users to browse and purchase tic
 <blockquote class="trello-card"><a href="https:&#x2F;&#x2F;trello.com&#x2F;c&#x2F;Hij5HfSP">Bug - Users are unable to purchase tickets for certain dates.</a></blockquote>
 
 #### Chores Card
-<blockquote class="trello-card"><a href="https:&#x2F;&#x2F;trello.com&#x2F;c&#x2F;L890OlR4">Chores</a></blockquote>
+<blockquote class="trello-card"><a href="https:&#x2F;&#x2F;trello.com&#x2F;c&#x2F;L890OlR4">Chores</a></blockquote><br>
 
 **Backlog**:
 1. Exhibit browsing feature
@@ -42,8 +42,7 @@ DinoTickets is a mobile application that allows users to browse and purchase tic
 9. Social media integration
 10. Customer support feature
 
-**Wireframes**:
-Explanation:
+## **Wireframes**:
 
 1. **Header**: Contains the app logo and navigation elements. The "Back" button helps users navigate back to the previous screen.
 
@@ -57,9 +56,13 @@ Explanation:
 
 6. **Footer/Navigation Bar**: Includes additional navigation options, such as a link to the "Events Schedule" or "Ticket Purchase" screens.
 
-1. [Exhibit Browsing Wireframe]()
-2. [Ticket Purchase Wireframe]()
-3. [Digital Ticket Wireframe]()
+**Wireframes**
+
+1. [Desktop: Landing Page](https://share.balsamiq.com/c/2YQvpQRwin19y6x9oMoaW9.png)
+2. [Mobile: Landing Page](https://share.balsamiq.com/c/on1fc4Smcg4C63SNtxfFFL.png)
+3. [Desktop: Exhibit/General Tickets Wireframe](https://share.balsamiq.com/c/5YTicNaJm4rnhZ9X2xXxfT.png)
+4. [Mobile: Form Page (purchasing tickets)](https://share.balsamiq.com/c/bhTSpiXqsVhXbDcVjU8unP.png)
+5. [Desktop: Event Schedule Wireframe](https://share.balsamiq.com/c/22KDQt7LA8ZL6jzkrgijKJ.png)
 
 **Reflection**:
 Three things that went well:
