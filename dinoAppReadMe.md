@@ -55,9 +55,14 @@ Explanation:
 1. **Filter/Sort Options**: Allows users to filter or sort exhibits based on different criteria, such as popularity, alphabetical order, or theme.
 1. **Search Bar**: Enables users to search for specific exhibits.
 1. **Footer/Navigation Bar**: Includes additional navigation options, such as a link to the "Events Schedule" or "Ticket Purchase" screens.
-1. [Exhibit Browsing Wireframe]()
-1. [Ticket Purchase Wireframe]()
-1. [Digital Ticket Wireframe]()
+
+**Wireframes:**
+
+1. [Desktop: Landing Page](https://share.balsamiq.com/c/2YQvpQRwin19y6x9oMoaW9.png)
+1. [Mobile: Landing Page](https://share.balsamiq.com/c/on1fc4Smcg4C63SNtxfFFL.png)
+1. [Desktop: Exhibit/General Tickets Wireframe](https://share.balsamiq.com/c/5YTicNaJm4rnhZ9X2xXxfT.png)
+1. [Mobile: Form Page (purchasing tickets)](https://share.balsamiq.com/c/bhTSpiXqsVhXbDcVjU8unP.png)
+1. [Desktop: Event Schedule Wireframe](https://share.balsamiq.com/c/22KDQt7LA8ZL6jzkrgijKJ.png)
 
 **Reflection**
 Three things that went well:
