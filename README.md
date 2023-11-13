@@ -68,7 +68,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/L890OlR4)
 
 #### Create one bug card.
 
