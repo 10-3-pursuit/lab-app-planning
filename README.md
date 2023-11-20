@@ -50,7 +50,7 @@ Music Matters
 >As an artists I wnat to build commections with the listeners so that they can see how important I am about my craft.
 >As an artist I want to see how the app showcases me.
 >As a user I want to see other user reviews on songs.
->As a user I want to see the connections between teh artists and listeners on the app.
+>As a user I want to see the connections between the artists and listeners on the app.
 
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
@@ -79,7 +79,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/36x0Hy5b/12-acceptance-criteria)
 
 #### Create one bug card.
 
@@ -97,7 +97,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/HwuH0aqU/15-bug)
 
 #### Create one chore card
 
@@ -108,7 +108,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/Swn7VsCe/17-assign-colors-to-the-webpage-for-the-music-application)
 
 ### Wireframes
 
@@ -118,7 +118,7 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[My Mobile Landing Page Wireframe Link] (assets/Untitled_Artwork.jpg)
 
 **Create a landing page wireframe for a wide desktop view.**
 
@@ -126,19 +126,18 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[My Form Wireframe Link](wireframe.jpg)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
-
-- one
-- two
-- three
+ -wireframes
+ -using trello
+ -coming up with user experience ideas
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is organizing my thoughts when it comes to creating a new project. 
 
 Please list out your Team Members if you worked on a team:
 
