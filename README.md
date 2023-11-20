@@ -33,14 +33,25 @@ Choose from any popular app. It can be an app for anything:
 #### In 1-3 sentences describe your application.
 
 > My app ...
-
+The music app will allow users to suggest artists and songs to other users. 
 #### What is the name of your application?
-
+Music Matters 
 > APP NAME
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
 - `As a <type of user>, I want to <some goal>, so that <some reason>.`
+>As a user I wnat to upload artists and songs, so that other users can see. 
+>As a user I want to see a list of artists and songs so that other users recommend.
+>As a user I wnat to recive notifications of any updates and recommendations, so that i'm up to date. 
+>As a user I want to be able to make connections so that I feel  comfortable on the app. 
+>As an artist I want to see how my music is being broadcasted. 
+>As an artist I want to see the differences with Music matters than other social media apps.
+>As an artists I wnat to build commections with the listeners so that they can see how important I am about my craft.
+>As an artist I want to see how the app showcases me.
+>As a user I want to see other user reviews on songs.
+>As a user I want to see the connections between the artists and listeners on the app.
+
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
@@ -55,7 +66,7 @@ Follow the format provided (name of board, the 5 lists etc.) in the reading.
 
 Provide a link to your board below.
 
-> [APP NAME board]()
+> [Music Matters](https://trello.com/b/Hnq1zuNU/music-matters)
 
 #### For one card, fill out more details, include:
 
@@ -68,7 +79,7 @@ Move that card to the `Doing` list and assign yourself to it.
 
 Provide a link to the specific card below.
 
-> [Detailed card]()
+> [Detailed card](https://trello.com/c/36x0Hy5b/12-acceptance-criteria)
 
 #### Create one bug card.
 
@@ -86,7 +97,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/HwuH0aqU/15-bug)
 
 #### Create one chore card
 
@@ -97,7 +108,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/Swn7VsCe/17-assign-colors-to-the-webpage-for-the-music-application)
 
 ### Wireframes
 
@@ -107,7 +118,7 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a mobile wireframe for the landing page view.**
 
-[My Mobile Landing Page Wireframe Link]()
+[My Mobile Landing Page Wireframe Link] (assets/Untitled_Artwork.jpg)
 
 **Create a landing page wireframe for a wide desktop view.**
 
@@ -115,19 +126,18 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 **Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[My Form Wireframe Link]()
+[My Form Wireframe Link](wireframe.jpg)
 
 ## Reflection
 
 Write down three things that went well for you doing this lab.
-
-- one
-- two
-- three
+ -wireframes
+ -using trello
+ -coming up with user experience ideas
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve is organizing my thoughts when it comes to creating a new project. 
 
 Please list out your Team Members if you worked on a team:
 
